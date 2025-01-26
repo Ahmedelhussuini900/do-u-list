@@ -118,3 +118,7 @@ body {
   .addBtn:hover {
     background-color: #bbb;
   }
+  body{
+    background-color: blueviolet;
+    font-family: Arial, sans-serif;
+  }
